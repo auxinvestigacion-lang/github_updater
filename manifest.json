@@ -1,8 +1,9 @@
 {
-  "domain": "github_updater",
-  "name": "GitHub Component Updater",
-  "codeowners": ["auxinvestigacion-lang"],
-  "documentation": "https://github.com/auxinvestigacion-lang",
-  "iot_class": "cloud_polling",
+  "domain": "mi_componente_prueba",
+  "name": "Mi Componente de Prueba",
+  "codeowners": [],
+  "dependencies": [],
+  "documentation": "https://github.com",
+  "iot_class": "local_push",
   "version": "1.0.0"
 }
