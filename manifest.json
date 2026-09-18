@@ -1,0 +1,8 @@
+{
+  "domain": "github_updater",
+  "name": "GitHub Component Updater",
+  "codeowners": ["@tu_usuario"],
+  "documentation": "https://github.com/tu_usuario",
+  "iot_class": "cloud_polling",
+  "version": "1.0.0"
+}

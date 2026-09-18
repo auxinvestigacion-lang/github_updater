@@ -1,0 +1,11 @@
+update_component:
+  name: Actualizar componente desde GitHub
+  description: Elimina la versión anterior de una carpeta en custom_components y descarga la última desde GitHub.
+  fields:
+    folder_name:
+      name: github_updater
+      description: Nombre del componente/carpeta a actualizar (ej. service, configred).
+      required: true
+      example: 
+      selector:
+        text:
