@@ -13,8 +13,8 @@ DOMAIN = "github_updater"
 SERVICE_UPDATE = "update_component"
 
 # Configura aquí tus datos de GitHub
-GITHUB_USER = "tu_usuario_github"
-GITHUB_REPO = "tu_repositorio"
+GITHUB_USER = "auxinvestigacion-lang"
+GITHUB_REPO = "github_updater"
 GITHUB_BRANCH = "main"
 
 SERVICE_SCHEMA = vol.Schema({
