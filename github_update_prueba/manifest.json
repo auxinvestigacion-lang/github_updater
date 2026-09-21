@@ -1,9 +1,0 @@
-{
-  "domain": "mi_componente_prueba",
-  "name": "Mi Componente de Prueba",
-  "codeowners": [],
-  "dependencies": [],
-  "documentation": "https://github.com",
-  "iot_class": "local_push",
-  "version": "1.0.0"
-}
